@@ -1,0 +1,19 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+
+# Editor Settings
+.vscode/
+.idea/
+
+# Large Datasets and Data Files
+Dataset/
+*.csv
+*.tar
+*.tgz
+*.npz
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+__pycache__/

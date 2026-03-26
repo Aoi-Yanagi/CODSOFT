@@ -41,9 +41,4 @@ The following tasks are given to add in portfolio and give me practical experien
 *  **The Goal:** Build a character-levelRecurrent Neural Network (RNN) that can artificially generate text that looks like actual human handwriting.
 *  **The Process:** You'll train your neural network on a dataset of real handwriting samples, allowing it to pick up the visual patterns and output completely fresh text.
 
-### What I Decided to Do:~~~
-*   **Task 1**
-*   **Task 3**
-*   **Task 4**
-*   **Task 5**
----
+
